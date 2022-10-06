@@ -88,7 +88,7 @@ if (boolean === true){
 /***
  * 
  * Variable 	Explanation 	Example
-String       	This is a sequence of text known as a string. To signify that the value is a string, enclose it in single quote marks. 	let myVariable = 'Bob';
+String       	This is a sequence of text known as a string. To signify that the value is a string, enclose it in single quote marks. 	;
 Number 	       This is a number. Numbers don't have quotes around them. 	let myVariable = 10;
 Boolean 	This is a True/False value. The words true and false are special keywords that don't need quote marks. 	let myVariable = true;
 Array 	This is a structure that allows you to store multiple values in a single reference. 	let myVariable = [1,'Bob','Steve',10];
