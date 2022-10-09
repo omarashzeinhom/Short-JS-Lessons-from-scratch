@@ -17,7 +17,7 @@ var c  = "";
 
 const constant = 1; // CANNOT Resassign it , however if its an  object, or array we can change their props.
 //constant = 5 ; //wont work 
-console.log(constant);
+//console.log(constant);
 
 
 

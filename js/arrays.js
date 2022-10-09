@@ -3,7 +3,7 @@ const array = [
     'item1', 'item2', 'item3'
 ];
 
-console.table(array);
+//console.table(array);
 
 /**
  * vars 
