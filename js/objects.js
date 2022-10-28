@@ -27,7 +27,7 @@ const myProduct = new Object(); //object initializer constructor
 
 
 
-console.log(myProduct);
+//console.log(myProduct);
 
 // 
 
@@ -116,19 +116,16 @@ myObj['']               = 'This key is an empty string';
   
   const myCar = new Car('Eagle', 'Talon TSi', 1993);
 
-
-
   const kenscar = new Car('Nissan', '300ZX', 1992);
   const vpgscar = new Car('Mazda', 'Miata', 1990);
   
-
-
 
   function Person(name, age, sex) {
     this.name = name;
     this.age = age;
     this.sex = sex;
   }
+
   
   const randPerson = new Person('Rand McKinnon', 33, 'M');
   const ken = new Person('Ken Jones', 39, 'M');
